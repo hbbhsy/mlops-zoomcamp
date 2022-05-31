@@ -1,0 +1,15 @@
+artifact_uri: file:///home/agneshe/mlops-zoomcamp/hw/hw2/mlruns/0/26e41dea55d6440493e17f6f76012098/artifacts
+end_time: 1653980241613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 26e41dea55d6440493e17f6f76012098
+run_uuid: 26e41dea55d6440493e17f6f76012098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653980216315
+status: 3
+tags: []
+user_id: agneshe
